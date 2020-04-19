@@ -1,0 +1,19 @@
+.registerpage_fullname,
+.registerpage_email,
+.registerpage_phone {
+    margin-top: 10px;
+}
+
+.registerpage_txtrule {
+    position: relative;
+    left: 25px;
+}
+
+.registerpage_submitregister {
+    margin-top: 5px;
+}
+
+.registerpage_txtoldregister {
+    text-align: center;
+    font-size: 16px;
+}

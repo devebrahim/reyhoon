@@ -1,0 +1,10 @@
+.test_box {
+    position: relative;
+    width: 1000px;
+    height: 400px;
+    background-color: white;
+    border: 3px solid red;
+    margin: 39px auto;
+    font-size: 60px;
+    text-align: center;
+}

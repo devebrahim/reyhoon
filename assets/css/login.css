@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(238, 198, 238);
+    font-family: "BNazanin";
+    padding: 0;
+    margin: 0;
+}
+
+.loginpage_box {
+    width: 34%;
+    height: 50%;
+    background-color: white;
+    border-radius: 5px;
+    text-align: right;
+    position: relative;
+    right: 30%;
+    margin: 10% 0 20%;
+    padding: 35px 35px 10px 35px;
+    font-size: 15px;
+    box-shadow: 1px 1px 15px gray;
+}
+
+.loginpage_inputphone {
+    width: 100%;
+    height: 30px;
+    border-style: none;
+    direction: rtl;
+}
+
+.loginpage_submitphone,
+.registerpage_submitregister {
+    width: 140px;
+    height: 40px;
+    font-size: 17px;
+    color: white;
+    background: linear-gradient(270deg, #8b00af, #d40062);
+    border-style: none;
+    border-radius: 30px;
+    margin-right: 125px;
+}
+
+.loginpage_submitphone {
+    margin-top: 50px;
+}
+
+.loginpage_inputcodphone {
+    width: 120px;
+    height: 40px;
+    border-style: none none dashed;
+    margin-right: 135px;
+    margin-top: 10px;
+}
+
+.loginpage_txtolduser,
+.registerpage_txtrule {
+    font-size: 13px;
+    margin: 25px;
+}
+
+.loginpage_txtolduser {
+    text-align: center;
+}
+
+.loginpage_linkloginUser {
+    margin: 5px 150px 0 0;
+    text-align: center;
+    color: #d40062;
+    font-size: 16px;
+}
+
+.ruleofReyhoon,
+.registerpage_linkloginUser {
+    color: #d40062;
+}
